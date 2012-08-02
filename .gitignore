@@ -1,6 +1,20 @@
-*.class
-
-# Package Files #
-*.jar
-*.war
-*.ear
+*.iml
+.idea/
+.ipr
+.iws
+*~
+~*
+*.diff
+*.patch
+*.bak
+.DS_Store
+Thumbs.db
+.classpath
+.project
+.settings/
+.*proj
+*.log
+.svn/
+*.swp
+node_modules/
+target/
